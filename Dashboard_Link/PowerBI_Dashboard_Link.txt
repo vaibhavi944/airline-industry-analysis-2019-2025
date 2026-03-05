@@ -1,0 +1,7 @@
+Interactive Power BI Dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiYmUzMmU0YjktMDA0Ny00NTU5LWJhYzUtODkzYjRlNjYyZDk3IiwidCI6ImQ0MzBkNGE4LThhNDctNDI2OC1iMjk2LTUxMDRlNmY2MmUwZSJ9
+
+This dashboard presents a comparative analysis of Emirates and IndiGo
+between 2019 and 2025, including financial trends, passenger demand,
+and operational efficiency metrics.
