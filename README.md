@@ -6,6 +6,17 @@ This project analyzes the financial and operational performance of Emirates and 
 
 https://app.powerbi.com/view?r=eyJrIjoiYmUzMmU0YjktMDA0Ny00NTU5LWJhYzUtODkzYjRlNjYyZDk3IiwidCI6ImQ0MzBkNGE4LThhNDctNDI2OC1iMjk2LTUxMDRlNmY2MmUwZSJ9
 
+## Dashboard Preview
+
+### Industry Overview
+![Industry Overview](Dashboard_Screenshots/Page1_Industry_Overview.png)
+
+### Airline Comparison
+![Airline Comparison](Dashboard_Screenshots/Page2_Airline_Comparison.png)
+
+### Operational Efficiency
+![Operational Efficiency](Dashboard_Screenshots/Page3_Operational_Efficiency.png)
+
 ## Tools Used
 - Microsoft Excel
 - Power BI
